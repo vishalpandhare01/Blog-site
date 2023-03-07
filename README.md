@@ -1,4 +1,3 @@
-# Lithium
 
 Repository for backend cohort - Lithium
 
